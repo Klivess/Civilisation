@@ -1,2 +1,2 @@
 # Civilisation
-A simulation of the world
+A simulation, where AI "humans" grow, breed, and interact based off of math and free will.
